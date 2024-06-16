@@ -3,7 +3,7 @@
     "description": "لـ تنصـيـب سـورس تيبثـون العربـي على سكالينجو مجانًا",
     "addons": ["scalingo-postgresql"],
     "keywords": ["tepthon", "userbot","scalingo"],
-    "repository": "https://github.com/RRYR7/scalingo-deploy",
+    "repository": "https://github.com/Tepthon-Scalingo/Deploy",
     "logo": "https://graph.org/file/9a2e99d95903e6b8f9fb9.jpg",
     "stack": "container",
     "env": {
