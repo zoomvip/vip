@@ -1,0 +1,5 @@
+git clone https://github.com/RRYR7/thesource TEP
+cd TEP
+pip3 install --upgrade pip
+pip3 install -U -r requirements.txt
+python3 -m Tepthon

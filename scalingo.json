@@ -1,0 +1,41 @@
+{
+    "name": "سـورس تيبثـون العربي - 𝗦𝗼𝘂𝗿𝗰𝗲 𝗧𝗲𝗽𝘁𝗵𝗼𝗻 𝗔𝗿𝗮𝗯𝗶𝗰",
+    "description": "لـ تنصـيـب سـورس تيبثـون العربـي على سكالينجو مجانًا",
+    "addons": ["scalingo-postgresql"],
+    "keywords": ["tepthon", "userbot","scalingo"],
+    "repository": "https://github.com/RRYR7/scalingo-deploy",
+    "logo": "https://graph.org/file/9a2e99d95903e6b8f9fb9.jpg",
+    "stack": "container",
+    "env": {
+        "STRING_SESSION": {
+            "description": "كـــود جلســة تيــرمكــس - الكـود الكبيـر مـن حـافظـة حسـابـك او مـن بــوت〔 T66bot@ 〕..",
+            "required": true
+        },
+        "TG_BOT_TOKEN": {
+            "description": "توكـن البوت المساعــد - احصـل عليـه من بوت فـاذر @BotFather",
+            "required": true,
+            "value":""
+        },
+        "APP_ID": {
+            "description": "كـود أيبي أيدي〔 App id 〕",
+            "required": true,
+            "value":""
+        },
+        "API_HASH": {
+            "description": "كـود ايبي هـاش〔 Api Hash 〕اتركـه كمـا هــو",
+            "required": true,
+            "value":""
+        },
+        "TZ": {
+            "description": "المنطقـة الزمنيــة لا تغيرهـا",
+            "required": true,
+            "value": "Asia/Baghdad"
+        },
+        "ENV": {
+            "description": "لا تغيــرهـــا",
+            "required": true,
+            "value": "ANYTHING"
+        }
+
+    }
+}
