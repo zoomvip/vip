@@ -8,7 +8,7 @@
     "stack": "container",
     "env": {
         "STRING_SESSION": {
-            "description": "كـــود جلســة تيــرمكــس - الكـود الكبيـر مـن حـافظـة حسـابـك او مـن بــوت〔 T66bot@ 〕..",
+            "description": "كـــود جلســة تيــرمكــس - الكـود الكبيـر مـن حـافظـة حسـابـك أو مـن بــوت〔 FJDBot@ 〕..",
             "required": true
         },
         "TG_BOT_TOKEN": {
